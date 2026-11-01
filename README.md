@@ -7,9 +7,9 @@
 
 | 차시 | 학습 주제 | 연계 교과 | 학생용 | 교사용 |
 |---|---|---|---|---|
-| 1차시 | CSV 데이터 분석으로 살펴보는 경북 시·군의 인구 구조 | 통합사회 + 정보 | [학생용 열기](https://colab.research.google.com/github/계정명/저장소명/blob/main/notebooks/student/lesson1_student.ipynb) | [교사용 열기](https://colab.research.google.com/github/계정명/저장소명/blob/main/notebooks/teacher/lesson1_teacher.ipynb) |
-| 2차시 | 표준화와 K-means를 활용한 경북 시·군 군집 분석 | 공통수학2 + 정보 | [학생용 열기](https://colab.research.google.com/github/계정명/저장소명/blob/main/notebooks/student/lesson2_student.ipynb) | [교사용 열기](https://colab.research.google.com/github/계정명/저장소명/blob/main/notebooks/teacher/lesson2_teacher.ipynb) |
-| 3차시 | 전국 시·군·구 군집 분석과 지역 맞춤형 인구 정책 제안 | 통합사회 + 정보 | [학생용 열기](https://colab.research.google.com/github/계정명/저장소명/blob/main/notebooks/student/lesson3_student.ipynb) | [교사용 열기](https://colab.research.google.com/github/계정명/저장소명/blob/main/notebooks/teacher/lesson3_teacher.ipynb) |
+| 1차시 | CSV 데이터 분석으로 살펴보는 경북 시·군의 인구 구조 | 통합사회 + 정보 | [학생용 열기](https://colab.research.google.com/github/choihyeongbae/local-extinction-kmeans/blob/main/notebooks/student/lesson1_student.ipynb) | [교사용 열기](https://colab.research.google.com/github/choihyeongbae/local-extinction-kmeans/blob/main/notebooks/teacher/lesson1_teacher.ipynb) |
+| 2차시 | 표준화와 K-means를 활용한 경북 시·군 군집 분석 | 공통수학2 + 정보 | [학생용 열기](https://colab.research.google.com/github/choihyeongbae/local-extinction-kmeans/blob/main/notebooks/student/lesson2_student.ipynb) | [교사용 열기](https://colab.research.google.com/github/choihyeongbae/local-extinction-kmeans/blob/main/notebooks/teacher/lesson2_teacher.ipynb) |
+| 3차시 | 전국 시·군·구 군집 분석과 지역 맞춤형 인구 정책 제안 | 통합사회 + 정보 | [학생용 열기](https://colab.research.google.com/github/choihyeongbae/local-extinction-kmeans/blob/main/notebooks/student/lesson3_student.ipynb) | [교사용 열기](https://colab.research.google.com/github/choihyeongbae/local-extinction-kmeans/blob/main/notebooks/teacher/lesson3_teacher.ipynb) |
 
 - **학생용**: 핵심 코드에 빈칸(`___`)이 있고, 모둠활동지 질문에 답을 적는 칸이 있습니다.
 - **교사용**: 빈칸이 채워진 완성 코드, 실행 결과, 모범답안이 포함되어 있습니다.
